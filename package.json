@@ -1,5 +1,5 @@
 {
-  "name": "@wich/2checkout-apiv5",
+  "name": "@wich/2checkout",
   "version": "1.0.0",
   "description": "2checkout API v5.0",
   "main": "index.js",
@@ -15,14 +15,18 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WilliamChanchavac/2checkout-apiv5.git"
+    "url": "git+https://github.com/WilliamChanchavac/2checkout.git"
   },
   "bugs": {
-    "url": "https://github.com/WilliamChanchavac/2checkout-apiv5/issues"
+    "url": "https://github.com/WilliamChanchavac/2checkout/issues"
   },
-  "homepage": "https://github.com/WilliamChanchavac/2checkout-apiv5#readme",
+  "homepage": "https://github.com/WilliamChanchavac/2checkout#readme",
   "dependencies": {
     "moment-timezone": "^0.5.27",
     "request": "^2.88.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
