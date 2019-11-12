@@ -23,7 +23,7 @@
   "homepage": "https://github.com/WilliamChanchavac/2checkout#readme",
   "dependencies": {
     "moment-timezone": "^0.5.27",
-    "request": "^2.88.0"
+    "request-promise": "^4.2.5"
   },
   "directories": {
     "lib": "lib"
