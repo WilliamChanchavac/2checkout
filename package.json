@@ -1,6 +1,6 @@
 {
   "name": "@wich/2checkout",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "2checkout API v5.0",
   "main": "index.js",
   "scripts": {
